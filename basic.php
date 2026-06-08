@@ -28,6 +28,23 @@ echo "Multification is $mul <br>";
 echo "Divition is $div <br>";
 echo "Modulas is $mod <br>";
 
+// constrant declar 
+const PI= 3.1416;
+define("PI2", 3.1416);
+echo PI;
+echo "<br>";
+echo PI2;
+echo "<br>";
+
+// array 
+$students= ["jahid", "Karim", "Rafsan", "Hasib"];
+
+echo $students[2];
+echo "<br>";
+// associative array 
+$jahid= ["name" => "Jahid Hasan", "age" => 22, "address" => "Gulshan, Dhaka"];
+print_r($jahid);
+
 
 ?>
 
