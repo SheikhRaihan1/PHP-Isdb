@@ -1,0 +1,4 @@
+[24-Jun-2026 08:57:18 Europe/Berlin] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\PHP-ISDB\API\index.php on line 20
+[24-Jun-2026 08:57:18 Europe/Berlin] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in E:\xampp\htdocs\PHP-ISDB\API\index.php on line 20
+[24-Jun-2026 08:58:23 Europe/Berlin] PHP Warning:  Undefined array key 0 in E:\xampp\htdocs\PHP-ISDB\API\index.php on line 20
+[24-Jun-2026 08:58:23 Europe/Berlin] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in E:\xampp\htdocs\PHP-ISDB\API\index.php on line 20
